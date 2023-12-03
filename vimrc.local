@@ -11,3 +11,4 @@ noremap <leader>h :nohlsearch<cr>
 noremap <leader><space> i<space><esc>
 nnoremap <leader>e iif err != nil {<CR> return err<CR>}<esc>
 set relativenumber
+set number
